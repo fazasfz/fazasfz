@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m a first-year CS student who codes better with caffeine.<br>🛠️ I build web apps, break bugs, and sometimes create AI tools that actually work.<br>💡 Hackathon enthusiast | JavaScript wrangler | Python whisperer<br>🚀 Stack: React • Node.js • Python • MongoDB<br>🔭 Currently exploring the space between code, creativity & chaos<br>📬 Always down to collaborate, learn, or debug existential crises 😄
+👋 Hey there! I’m a first-year CS student .<br>🛠️ I build web apps, break bugs, and sometimes create AI tools that actually work.<br>💡 Hackathon enthusiast | JavaScript wrangler | Python whisperer<br>🚀 Stack: React • Node.js • Python • MongoDB<br>🔭 Currently exploring the space between code, creativity & chaos<br>📬 Always down to collaborate, learn, or debug existential crises 😄
 
 
 # 💻 Tech Stack:
