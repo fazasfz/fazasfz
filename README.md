@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Syeda Fatima Zahra
 
 🎓 **Computer Science Sophomore** | 💡 **Hackathon Enthusiast** | 🛠️ **Tech Explorer**
-
+<br>
 Welcome to my digital corner! I’m a curious mind who loves blending code with creativity, whether it’s building full-stack applications, experimenting with AI, or just solving problems for fun. 
 ---
 
