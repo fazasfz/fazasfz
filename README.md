@@ -2,13 +2,11 @@
 
 🎓 **Computer Science Sophomore** | 💡 **Hackathon Enthusiast** | 🛠️ **Tech Explorer**
 
-Welcome to my digital corner! I’m a curious mind who loves blending code with creativity — whether it’s building full-stack applications, experimenting with AI, or just solving problems for fun (and sometimes for caffeine ☕).
-
+Welcome to my digital corner! I’m a curious mind who loves blending code with creativity, whether it’s building full-stack applications, experimenting with AI, or just solving problems for fun. 
 ---
 
 ## 🚀 About Me
-
-🌍 Based in **Islamabad, Pakistan**  
+ 
 📚 Currently diving into algorithms, data structures, and real-world dev projects  
 💻 Passionate about turning ideas into scalable tech solutions  
 🎯 Always up for a good challenge — especially if it involves building something from scratch!
