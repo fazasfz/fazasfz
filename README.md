@@ -2,7 +2,8 @@
 
 🎓 **Computer Science Sophomore** | 💡 **Hackathon Enthusiast** | 🛠️ **Tech Explorer**
 
-**Welcome to my digital corner! I’m a curious mind who loves blending code with creativity, whether it’s building full-stack applications, experimenting with AI, or just solving problems for fun.**
+ Welcome to my digital corner! I enjoy turning ideas into interactive experiences. Sometimes with code, sometimes with curiosity. From full-stack builds to AI tinkering, I’m here to learn, create, and share what sparks joy.
+
 ---
 
 ## 🚀 About Me
