@@ -20,17 +20,6 @@
 `AWS` `Docker` `GitLab`
 
 I’m constantly learning and love exploring new tools in the dev universe!
-
----
-
-## GitHub Stats
-
-🏆 **Public Repositories**: 9  
-👥 **Followers**: 2  
-🔗 **Following**: 6  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazasfz&show_icons=true&theme=radical)
-
 ---
 
 ## 🌟 Highlight Projects
