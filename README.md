@@ -37,8 +37,8 @@ I’m constantly learning and love exploring new tools in the dev universe!
 
 | Project | Description |
 |--------|-------------|
-| [**TAG25**](https://github.com/fazasfz/TAG25) | 🧠 Python-based project focused on [insert 1-line summary here]. |
-| [**SPACEEXPLORER**](https://github.com/fazasfz/SPACEEXPLORER) | 🌌 JavaScript app for exploring galaxies and beyond. |
+| [**TAG25**](https://github.com/fazasfz/TAG25) | 🧠 . |
+| [**SPACEEXPLORER**](https://github.com/fazasfz/SPACEEXPLORER) | 🌌 A full-stack website for recording progress of discoveries and astronauts |
 | [**Hotel Lexus De Arena**](https://github.com/fazasfz/HotelLexusDeArena) | 🏨 A modern hotel frontend made as part of a semester project. |
 | [**The Hangman**](https://github.com/fazasfz/The-Hangman) | 🎮 Classic hangman game coded in C++ just for the love of logic. |
 | [**DSA Progress Tracker**](https://github.com/fazasfz/DSA-Progress) | 📈 My ongoing journey of mastering Data Structures and Algorithms. |
