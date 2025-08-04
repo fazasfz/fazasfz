@@ -47,14 +47,6 @@ I’m constantly learning and love exploring new tools in the dev universe!
 
 ---
 
-## 🔄 Recent Activity
-
-- ✨ Pushed updates to [**Portfolio1**](https://github.com/fazasfz/Portfolio1) – *July 19, 2025*  
-- 🛠️ Edited README of [**DSA-Progress**](https://github.com/fazasfz/DSA-Progress) – *July 3, 2025*  
-- 📂 Uploaded files to [**The Hangman**](https://github.com/fazasfz/The-Hangman) – *August 1, 2025*
-
----
-
 ## 🌐 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fazasfz/)  
