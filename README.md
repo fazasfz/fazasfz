@@ -37,7 +37,7 @@ I’m constantly learning and love exploring new tools in the dev universe!
 
 | Project | Description |
 |--------|-------------|
-| [**TAG25**](https://github.com/fazasfz/TAG25) | 🧠 . |
+| [**TAG25**](https://github.com/fazasfz/TAG25) | 🧠VOXBYTE — AI-Powered News Anchor App - Presented at TAG25. |
 | [**SPACEEXPLORER**](https://github.com/fazasfz/SPACEEXPLORER) | 🌌 A full-stack website for recording progress of discoveries and astronauts |
 | [**Hotel Lexus De Arena**](https://github.com/fazasfz/HotelLexusDeArena) | 🏨 A modern hotel frontend made as part of a semester project. |
 | [**The Hangman**](https://github.com/fazasfz/The-Hangman) | 🎮 Classic hangman game coded in C++ just for the love of logic. |
@@ -54,5 +54,5 @@ I’m constantly learning and love exploring new tools in the dev universe!
 
 ---
 
-_Thanks for stopping by! ⭐ If you like what I do, consider following or reaching out — I love meeting new people in tech._
+_Thanks for stopping by! ⭐ If you like what I do, consider following or reaching out. I love meeting new people in tech._
 
